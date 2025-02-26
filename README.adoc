@@ -1,0 +1,5 @@
+= Java Cookbook 5th Edition Source Repo
+
+This repo contains examples drawn from my javasrc and darwinsys-api repositories.
+It contains only those examples, and will only receive occasional updates;
+the other two repositories are where I do most of the work on the example code.
